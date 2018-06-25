@@ -1,0 +1,10 @@
+7+------------------------------+-------------------------------------+--------------------------+-----------+
+| Nome                         | Diretorio                           | Data e Hora              | Tamanho   |
+| eletronica 1.txt             | ./myFiles/Analogica/Eletronica      | Mon May 21 22:53:04 2018 | 2.41 KB   |
+| eletronica 2.txt             | ./myFiles/Analogica/Eletronica      | Sat May 26 22:57:58 2018 | 9.68 KB   |
+| eletronica 3.txt             | ./myFiles/Analogica/Eletronica      | Mon May 21 21:51:36 2018 | 5.27 KB   |
+| eletronica 4.txt             | ./myFiles/Analogica/Eletronica      | Fri May 25 15:14:29 2018 | 267.85 KB |
+| circuitos eletricos 1.txt    | ./myFiles/Eletrica/Circuitos        | Mon May 21 21:28:42 2018 | 4.02 KB   |
+| circuitos eletricos 2.txt    | ./myFiles/Eletrica/Circuitos        | Mon May 21 22:05:17 2018 | 7.36 KB   |
+| teoria eletromagnetica 2.txt | ./myFiles/Eletrica/Eletromagnetismo | Sun May 27 11:18:34 2018 | 57.22 KB  |
++------------------------------+-------------------------------------+--------------------------+-----------+

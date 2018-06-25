@@ -1,0 +1,3 @@
+FSTR
+elet
+registro.txt
